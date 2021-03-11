@@ -1,0 +1,10 @@
+{
+    "domain": "loadshedding",
+    "name": "City of Cape Town Zone 11 loadshedding slot sensor",
+    "documentation": "https://github.com/MattyRoy/coct-zone11",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [
+        "@MattyRoy"
+    ]
+}
